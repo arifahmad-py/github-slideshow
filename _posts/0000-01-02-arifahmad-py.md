@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+:fu: Life is good.
 Use the left arrow to go back!
